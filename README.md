@@ -1,2 +1,2 @@
-# Prerpcourse-Henry
+# Prepcourse-Henry
 Repositorio prueba, modulo 2
